@@ -3,11 +3,11 @@
 - 💻🤖 I'm Electrical and Computer Engineering Student at NOVA SST / FCT-UNL
 
 <div align="center">
-  <a href="https://github.com/CatiaCarraca%22%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatiaCarraca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+  <a href="https://github.com/CatiaCarraca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatiaCarraca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <div style="display: inline_block"><br>
-  <img align="center" alt="CAT-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg%22%3E
-  <img align="center" alt="CAT-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg%22%3E
+  <img align="center" alt="CAT-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="CAT-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     </div>
 </div>
 
